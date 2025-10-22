@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Cache
+.cache/
+tmp/
+
+# Gradle/Java
+.gradle/
+build/
