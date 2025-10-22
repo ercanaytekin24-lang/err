@@ -1,2 +1,2 @@
-Flask
-vercel_wsgi
+Flask==2.3.3
+vercel_wsgi==0.9.3
